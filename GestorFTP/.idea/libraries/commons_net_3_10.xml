@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-net-3.10">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Librerias/commons-net-3.10.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/Librerias/commons-net-3.10.0-bin.zip!/commons-net-3.10.0" />
+      <root url="file://$USER_HOME$/Documents/Librerias/commons-net-3.10.0" />
+      <root url="file://$USER_HOME$/Documents/Librerias/commons-net-3.10.0" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/Librerias/commons-net-3.10.0" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/Librerias/commons-net-3.10.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
